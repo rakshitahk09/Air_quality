@@ -1,4 +1,4 @@
-#define BLYNK_AUTH_TOKEN "vpctDnVuLgfYlvb4_hWCnMiE-iawJ16w"
+#define BLYNK_AUTH_TOKEN "" // add your blynk token
 
 #define sensor_pin A0 //set A0 pin as sensor pin
 
